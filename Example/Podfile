@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FAImageView_Example' do
+  pod 'FAImageView', :path => '../'
+
+  target 'FAImageView_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
