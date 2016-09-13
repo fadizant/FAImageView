@@ -1,0 +1,16 @@
+PODS:
+  - FAImageView (0.1.0)
+
+DEPENDENCIES:
+  - FAImageView (from `../`)
+
+EXTERNAL SOURCES:
+  FAImageView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FAImageView: 12dd1a574b12ddd66f657c58e0e5d03ae7e68e9f
+
+PODFILE CHECKSUM: 0fcbee13bfbfe3e40b963f2e7892abc633f04c61
+
+COCOAPODS: 1.0.1
